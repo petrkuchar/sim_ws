@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+ <node
+    pkg="navigation"
+    type="mpc"
+    name="mpc" 
+  /><node
+    pkg="navigation"
+    type="ref"
+    name="ref" 
+    output="screen"
+  />
+</launch>
