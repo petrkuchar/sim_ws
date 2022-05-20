@@ -1,6 +1,6 @@
 ﻿# Upozornění
 
-Jedná se o repozitář který slouží především k otestování řídích algoritmů, které byli vytvořeny během bakalářské práce.  Repozitář obsahuje zároveň použítý [f1tenth_simulator](https://github.com/f1tenth/f1tenth_simulator) od [F1TENTH](https://f1tenth.org/) který zde slouží k otestování navržených algoritmů.
+Jedná se o repozitář sloužící především k otestování řídích algoritmů, které byli vytvořeny během bakalářské práce.  Repozitář obsahuje zároveň použítý [f1tenth_simulator](https://github.com/f1tenth/f1tenth_simulator) od [F1TENTH](https://f1tenth.org/) který zde slouží k otestování navržených algoritmů.
 
 # Nastavení pro otestování v simulátoru
 
