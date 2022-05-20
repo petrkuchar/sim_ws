@@ -4,7 +4,7 @@ Jedná se o repozitář který slouží především k otestování řídích al
 
 # Nastavení pro otestování v simulátoru
 
-Ke zprovoznění je zapotřebí mít na počítači nainstalovaný operační systém Linux. Simulátor byl odzkoušen konkrétně na Ubuntu 20.04 a Ubuntu 18.04, proto by bylo nejvhodnější použít jednu z těchto distribucí. Dále je zapotřebí mít na počítači nainstalovaný softwarový rámec ROS, nejlépe však Melodic. Dále je zapotřebí nainstalovat balíčky, které jsou nutné pro spuštění simulátoru. Nejdříve tak aktualizujeme dostupné balíčky a jejich verze pomocí příkazu:
+Ke zprovoznění je zapotřebí mít na počítači nainstalovaný operační systém Linux. Simulátor byl odzkoušen konkrétně na Ubuntu 20.04 a Ubuntu 18.04, proto by bylo nejvhodnější použít jednu z těchto distribucí. Dále je zapotřebí mít na počítači nainstalovaný softwarový rámec [ROS](https://www.ros.org/), nejlépe však Melodic. Dále je zapotřebí nainstalovat balíčky, které jsou nutné pro spuštění simulátoru. Nejdříve tak aktualizujeme dostupné balíčky a jejich verze pomocí příkazu:
 ```
 $ sudo apt-get update
 ```
